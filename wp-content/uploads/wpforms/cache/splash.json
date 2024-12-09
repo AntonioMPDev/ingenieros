@@ -82,7 +82,7 @@
       "type": ["agency", "basic", "elite", "plus", "pro", "ultimate"],
       "buttons": {
         "main": {
-          "url": "http://antoniompdev.github.io/ingenieros/wp-admin/admin.php?page=wpforms-addons",
+          "url": "https://antoniompdev.github.io/ingenieros/wp-admin/admin.php?page=wpforms-addons",
           "text": "Get Started"
         },
         "alt": {

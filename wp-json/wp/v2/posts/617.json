@@ -2,13 +2,13 @@
   "id": 617,
   "date": "2024-11-29T13:24:15",
   "date_gmt": "2024-11-29T13:24:15",
-  "guid": { "rendered": "http://antoniompdev.github.io/ingenieros/?p=617" },
+  "guid": { "rendered": "https://antoniompdev.github.io/ingenieros/?p=617" },
   "modified": "2024-11-29T13:24:15",
   "modified_gmt": "2024-11-29T13:24:15",
   "slug": "the-hub-arquitectos-fusce-lectus-est-5",
   "status": "publish",
   "type": "post",
-  "link": "http://antoniompdev.github.io/ingenieros/the-hub-arquitectos-fusce-lectus-est-5/",
+  "link": "https://antoniompdev.github.io/ingenieros/the-hub-arquitectos-fusce-lectus-est-5/",
   "title": { "rendered": "The Hub Arquitectos Fusce lectus est." },
   "content": { "rendered": "", "protected": false },
   "excerpt": { "rendered": "", "protected": false },
@@ -35,63 +35,65 @@
   "_links": {
     "self": [
       {
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/posts/617",
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/posts/617",
         "targetHints": { "allow": ["GET"] }
       }
     ],
     "collection": [
-      { "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/posts" }
+      {
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/posts"
+      }
     ],
     "about": [
       {
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/types/post"
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/types/post"
       }
     ],
     "author": [
       {
         "embeddable": true,
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/users/1"
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/users/1"
       }
     ],
     "replies": [
       {
         "embeddable": true,
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/comments?post=617"
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/comments?post=617"
       }
     ],
     "version-history": [
       {
         "count": 1,
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/posts/617/revisions"
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/posts/617/revisions"
       }
     ],
     "predecessor-version": [
       {
         "id": 618,
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/posts/617/revisions/618"
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/posts/617/revisions/618"
       }
     ],
     "wp:featuredmedia": [
       {
         "embeddable": true,
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/media/397"
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/media/397"
       }
     ],
     "wp:attachment": [
       {
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/media?parent=617"
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/media?parent=617"
       }
     ],
     "wp:term": [
       {
         "taxonomy": "category",
         "embeddable": true,
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/categories?post=617"
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/categories?post=617"
       },
       {
         "taxonomy": "post_tag",
         "embeddable": true,
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/tags?post=617"
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/tags?post=617"
       }
     ],
     "curies": [

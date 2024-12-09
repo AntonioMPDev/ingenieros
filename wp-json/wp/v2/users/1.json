@@ -1,9 +1,9 @@
 {
   "id": 1,
   "name": "dev",
-  "url": "http://antoniompdev.github.io/ingenieros",
+  "url": "https://antoniompdev.github.io/ingenieros",
   "description": "",
-  "link": "http://antoniompdev.github.io/ingenieros/author/dev/",
+  "link": "https://antoniompdev.github.io/ingenieros/author/dev/",
   "slug": "dev",
   "avatar_urls": {
     "24": "https://secure.gravatar.com/avatar/1eea04e7198d3a86509578084f23f366?s=24&d=mm&r=g",
@@ -14,12 +14,14 @@
   "_links": {
     "self": [
       {
-        "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/users/1",
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/users/1",
         "targetHints": { "allow": ["GET"] }
       }
     ],
     "collection": [
-      { "href": "http://antoniompdev.github.io/ingenieros/wp-json/wp/v2/users" }
+      {
+        "href": "https://antoniompdev.github.io/ingenieros/wp-json/wp/v2/users"
+      }
     ]
   }
 }
