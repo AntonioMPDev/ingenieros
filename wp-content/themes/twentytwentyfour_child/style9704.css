@@ -38,7 +38,7 @@ h6 {
 
 .elementor-swiper-button {
   z-index: 2 !important;
-} 
+}
 
 .swiper-slide-inner::before {
   content: "";
@@ -349,7 +349,7 @@ main {
 }
 
 .contact-form-send-button {
-  background-color: #85B86D !important;
+  background-color: #6095cf !important;
   border-radius: unset !important;
   min-width: 100px;
 }
@@ -380,6 +380,10 @@ main {
 
   .wp-block-post-featured-image {
     margin-top: 80px !important;
+  }
+
+  .custom-logo {
+    max-width: 180px !important;
   }
 }
 
